@@ -51,7 +51,7 @@ Criar uma aplicação GUI com Java Swing para realizar operações **CRUD** (Cre
 ![Confirmação de Atualização](/src/edamatectest/img/update.png)
 
 ### 🔍 Busca com Filtro
-![Busca com Filtro](/src/edamatectest/img/seach.png)
+![Busca com Filtro](/src/edamatectest/img/search.png)
 
 ### ❗ Confirmação de Exclusão
 ![Confirmação de Exclusão](/src/edamatectest/img/delete.png)
