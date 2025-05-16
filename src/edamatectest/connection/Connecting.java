@@ -9,7 +9,7 @@ public class Connecting {
    
     private static final String URL = "jdbc:mysql://localhost:3306/customer_register";
     private static final String USER = "root";
-    private static final String PASSWORD = "Jholly1577.564";
+    private static final String PASSWORD = "";
     
     public static Connection connect() throws SQLException{
         Connection conn = null;
